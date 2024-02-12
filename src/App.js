@@ -13,7 +13,7 @@ function App() {
           alt="logo"
         />
         <div>Congratulations!!!</div>
-        <div>Great session!</div>
+        <div>Thank you for attending this great session!</div>
       </header>
     </div>
   );
